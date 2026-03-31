@@ -118,6 +118,11 @@ const App = () => {
     };
 
     const handleFilterSubmit = async () => {
+        if (!industry || !location || !stateName || !city || !jobTitle || !companySize || !keywords || !totalLeads) {
+            showAlert("Please fill all the fields.", "red");
+            return;
+        }
+
         setLoading(true);
         setFiltersUsed(null);
         setLeads([]);
