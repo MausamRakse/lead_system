@@ -1,0 +1,191 @@
+{
+    "id": "610bea74192dbf000102eec5",
+    "first_name": "Ankur",
+    "last_name": "Pandey",
+    "name": "Ankur Pandey",
+    "linkedin_url": "http://www.linkedin.com/in/yuyudhan",
+    "title": "Co Founder",
+    "photo_url": "https://media.licdn.com/dms/image/v2/C5603AQGpOhOzuHsZew/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1600544779993?e=2147483647&v=beta&t=ShsYjcoV1jqetovFgZW651h6cOou9J8bugxKvLwHtoI",
+    "twitter_url": "https://twitter.com/yuyudhan",
+    "github_url": null,
+    "facebook_url": null,
+    "extrapolated_email_confidence": null,
+    "headline": "Looking for rockstar programmers | Forbes 30 under 30 | Building Signzy, a global digital trust system",
+    "organization_id": "56d4717ef3e5bb37bd00804e",
+    "street_address": "",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India",
+    "postal_code": "560001",
+    "formatted_address": "Bengaluru, Karnataka 560001, India",
+    "time_zone": "Asia/Kolkata",
+    "intent_strength": null,
+    "show_intent": false,
+    "email_domain_catchall": false,
+    "revealed_for_current_team": true,
+    "departments": [
+        "c_suite"
+    ],
+    "subdepartments": [
+        "founder"
+    ],
+    "functions": [
+        "entrepreneurship"
+    ],
+    "seniority": "founder",
+    "employment_history": [
+        {
+            "_id": "69aab5b107af1f000109aeb2",
+            "created_at": null,
+            "current": true,
+            "degree": null,
+            "description": null,
+            "emails": null,
+            "end_date": null,
+            "grade_level": null,
+            "kind": null,
+            "major": null,
+            "org_matched_by_name": false,
+            "organization_id": "56d4717ef3e5bb37bd00804e",
+            "organization_name": "Signzy",
+            "raw_address": null,
+            "start_date": "2015-10-01",
+            "title": "Co Founder",
+            "updated_at": null,
+            "id": "69aab5b107af1f000109aeb2",
+            "key": "69aab5b107af1f000109aeb2"
+        },
+        {
+            "_id": "69aab5b107af1f000109aeb4",
+            "created_at": null,
+            "current": false,
+            "degree": null,
+            "description": null,
+            "emails": null,
+            "end_date": "2015-06-01",
+            "grade_level": null,
+            "kind": null,
+            "major": null,
+            "org_matched_by_name": false,
+            "organization_id": "556d351e73696411f42bbf00",
+            "organization_name": "Quesky.com",
+            "raw_address": null,
+            "start_date": "2014-04-01",
+            "title": "Co Founder",
+            "updated_at": null,
+            "id": "69aab5b107af1f000109aeb4",
+            "key": "69aab5b107af1f000109aeb4"
+        }
+    ],
+    "organization": {
+        "id": "56d4717ef3e5bb37bd00804e",
+        "name": "Signzy",
+        "website_url": "http://www.signzy.com",
+        "blog_url": null,
+        "angellist_url": "http://angel.co/signzy",
+        "linkedin_url": "http://www.linkedin.com/company/teamsignzy",
+        "twitter_url": "https://twitter.com/TeamSignzy",
+        "facebook_url": "https://www.facebook.com/TeamSignzy/",
+        "primary_phone": {},
+        "languages": [
+            "English"
+        ],
+        "alexa_ranking": 166203,
+        "phone": null,
+        "linkedin_uid": "10347848",
+        "founded_year": 2015,
+        "publicly_traded_symbol": null,
+        "publicly_traded_exchange": null,
+        "logo_url": "https://zenprospect-production.s3.amazonaws.com/uploads/pictures/69af9fa00667bc0001dd1ca0/picture",
+        "crunchbase_url": null,
+        "primary_domain": "signzy.com",
+        "sic_codes": [
+            "6199"
+        ],
+        "industry": "financial services",
+        "estimated_num_employees": 400,
+        "organization_revenue_printed": "13M",
+        "organization_revenue": 13000000.0,
+        "annual_revenue_printed": "13M",
+        "annual_revenue": 13000000.0,
+        "total_funding": 39200000,
+        "total_funding_printed": "39.2M",
+        "latest_funding_round_date": "2022-09-01T00:00:00.000+00:00",
+        "latest_funding_stage": "Series B",
+        "industries": [
+            "financial services"
+        ],
+        "secondary_industries": [],
+        "street_address": "165 Broadway",
+        "city": "New York",
+        "state": "New York",
+        "postal_code": "10006-1402",
+        "country": "United States",
+        "raw_address": "One Liberty Plaza, 165 Broadway 23rd Floor, New York City, New York 10006, US",
+        "owned_by_organization_id": null,
+        "short_description": "Signzy is a global leader in digital identity verification and compliance solutions, focusing on AI-powered platforms for KYC (Know Your Customer), KYB (Know Your Business), AML (Anti-Money Laundering) screening, and fraud prevention. Founded in 2015 and based in New York, the company operates in over 180 countries and serves more than 500 clients, including over 340 financial institutions, through a no-code platform featuring over 340 APIs.\n\nThe company offers a comprehensive platform that automates identity verification, compliance, and risk management. Key services include real-time user and identity verification, business verification, AML screening, and digital onboarding. Signzy's solutions are designed to enhance user experiences while ensuring compliance and security. The platform is recognized for its speed, cost efficiency, and effectiveness in reducing fraud and applicant drop-offs. Signzy primarily serves the financial services sector, including banking, payments, and fintech, and has established partnerships with major companies like HDFC, Stripe, and PayPal.",
+        "funding_events": [
+            {
+                "id": "63432b39bac350000171c268",
+                "date": "2022-09-01T00:00:00.000+00:00",
+                "news_url": "https://inc42.com/buzz/signzy-raises-26-mn-develop-no-code-digitalisation-platform/",
+                "type": "Series B",
+                "investors": "Vertex Holdings, Gaja Capital, Arkam Ventures",
+                "amount": "26M",
+                "currency": "$"
+            },
+            {
+                "id": "698614d3763bcc0001f9e513",
+                "date": "2020-12-01T00:00:00.000+00:00",
+                "news_url": null,
+                "type": "Series A",
+                "investors": "Vertex Ventures, Kalaari Capital, Stellaris Venture Partners",
+                "amount": "3M",
+                "currency": "$"
+            },
+            {
+                "id": "695e7cc1291a6c0001f57cb3",
+                "date": "2020-10-01T00:00:00.000+00:00",
+                "news_url": "https://m.economictimes.com/tech/funding/signzy-secures-3-million-from-vertex-ventures/articleshow/79525286.cms",
+                "type": "Series A",
+                "investors": "Kalaari Capital, MasterCard, Stellaris Venture Partners, Arkam Ventures",
+                "amount": "5.4M",
+                "currency": "$"
+            },
+            {
+                "id": "5bf3a338f651257ed4ff7686",
+                "date": "2018-11-01T00:00:00.000+00:00",
+                "news_url": "https://www.google.com/url?rct=j&sa=t&url=http://bwdisrupt.businessworld.in/article/Stellaris-and-Kalaari-Lead-3-6M-Series-A-Funding-in-Fintech-Startup-Signzy/21-11-2018-164391&ct=ga&cd=CAIyGmZkYjZkMDBkOWFlNjJmNjg6Y29tOmVuOlVT&usg=AFQjCNFOwf5Ypsn3biM1Q5Dd",
+                "type": "Series A",
+                "investors": "Kalaari Capital, Stellaris Venture Partners",
+                "amount": "3.6M",
+                "currency": "$"
+            },
+            {
+                "id": "696604dd1cf1c2000185fec0",
+                "date": "2018-05-01T00:00:00.000+00:00",
+                "news_url": null,
+                "type": "Venture (Round not Specified)",
+                "investors": "",
+                "amount": "600K",
+                "currency": "$"
+            },
+            {
+                "id": "615ce91ac65e930001552429",
+                "date": "2016-05-01T00:00:00.000+00:00",
+                "news_url": null,
+                "type": "Seed",
+                "investors": "Kalaari Capital",
+                "amount": "600K",
+                "currency": "$"
+            }
+        ],
+        "org_chart_root_people_ids": [],
+        "org_chart_sector": "OrgChart::SectorHierarchy::Rules::Finance",
+        "org_chart_removed": null,
+        "org_chart_show_department_filter": null,
+        "organization_headcount_six_month_growth": 0.0389908256880734,
+        "organization_headcount_twelve_month_growth": 0.081145584725537,
+        "organization_headcount_twenty_four_month_growth": -0.05427974947807934
+    }
+}

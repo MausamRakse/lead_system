@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: apollo-lead-app
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: python run.py
+    envVars:
+      - key: APOLLO_API_KEY
+        sync: false
+      - key: CSC_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: WEBHOOK_URL
+        sync: false
+      - key: RENDER
+        value: true
+      - key: PYTHON_VERSION
+        value: "3.11"
